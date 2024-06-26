@@ -1,0 +1,12 @@
+﻿Chemical,Filename,Molecular Weight,Minimum Conc (mM),Maximum Conc (mM)
+Bilirubin,Bilirubin.csv,584.630,0.003,0.017
+Albumin,Bovine serum albumin.csv,66500.000,0.300,0.750
+Cholesterol,Cholesterol.csv,386.650,3.880,6.480
+Creatinine,Creatinine.csv,113.120,0.040,0.110
+Glucose,Glucose.csv,180.160,3.900,7.800
+Lactic Acid,Lactic Acid.csv,90.080,0.560,2.220
+Bicarbonate,Sodium Bicarbonate.csv,61.020,22.000,30.000
+Urea,Urea.csv,60.060,2.500,8.330
+Uric Acid,Uric Acid.csv,168.110,0.180,0.420
+Vitamin C,Vitamin C.csv,176.120,0.030,0.110
+Water,Water.csv,18.200,54800.000,55600.000
